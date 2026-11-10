@@ -1,0 +1,212 @@
+{
+  "version": 1,
+  "puzzle": {
+    "size": 8,
+    "grid": [
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        5,
+        5,
+        6,
+        0,
+        1,
+        1,
+        0
+      ],
+      [
+        5,
+        5,
+        5,
+        6,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        5,
+        3,
+        5,
+        6,
+        6,
+        6,
+        1,
+        1
+      ],
+      [
+        5,
+        3,
+        3,
+        6,
+        6,
+        6,
+        1,
+        1
+      ],
+      [
+        4,
+        2,
+        3,
+        3,
+        3,
+        6,
+        6,
+        7
+      ],
+      [
+        4,
+        2,
+        2,
+        4,
+        3,
+        7,
+        7,
+        7
+      ],
+      [
+        4,
+        4,
+        4,
+        4,
+        3,
+        7,
+        7,
+        7
+      ]
+    ],
+    "marks": [
+      [
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown"
+      ],
+      [
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown"
+      ],
+      [
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown"
+      ],
+      [
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown"
+      ],
+      [
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown"
+      ],
+      [
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown"
+      ],
+      [
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown"
+      ],
+      [
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    ]
+  },
+  "regions": [
+    {
+      "id": 0,
+      "name": "颜色 1",
+      "color": "#debb72"
+    },
+    {
+      "id": 1,
+      "name": "颜色 2",
+      "color": "#f5d88c"
+    },
+    {
+      "id": 2,
+      "name": "颜色 3",
+      "color": "#729c89"
+    },
+    {
+      "id": 3,
+      "name": "颜色 4",
+      "color": "#e69bdf"
+    },
+    {
+      "id": 4,
+      "name": "颜色 5",
+      "color": "#5b78be"
+    },
+    {
+      "id": 5,
+      "name": "颜色 6",
+      "color": "#4e8f69"
+    },
+    {
+      "id": 6,
+      "name": "颜色 7",
+      "color": "#c5a52b"
+    },
+    {
+      "id": 7,
+      "name": "颜色 8",
+      "color": "#907ed1"
+    }
+  ]
+}

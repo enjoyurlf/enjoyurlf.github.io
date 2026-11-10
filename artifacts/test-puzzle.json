@@ -1,0 +1,100 @@
+{
+  "version": 1,
+  "puzzle": {
+    "size": 4,
+    "grid": [
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        2,
+        2,
+        2,
+        2
+      ],
+      [
+        3,
+        3,
+        3,
+        3
+      ]
+    ],
+    "marks": [
+      [
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown"
+      ],
+      [
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown"
+      ],
+      [
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown"
+      ],
+      [
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    ]
+  },
+  "regions": [
+    {
+      "id": 0,
+      "name": "青蓝",
+      "color": "#61a6b8"
+    },
+    {
+      "id": 1,
+      "name": "浅黄",
+      "color": "#f5d88c"
+    },
+    {
+      "id": 2,
+      "name": "莓红",
+      "color": "#c77e9b"
+    },
+    {
+      "id": 3,
+      "name": "赭黄",
+      "color": "#c5a52b"
+    },
+    {
+      "id": 4,
+      "name": "柔紫",
+      "color": "#907ed1"
+    },
+    {
+      "id": 5,
+      "name": "森林",
+      "color": "#4e8f69"
+    },
+    {
+      "id": 6,
+      "name": "浅粉",
+      "color": "#e69bdf"
+    },
+    {
+      "id": 7,
+      "name": "颜色 8",
+      "color": "#a278d4"
+    }
+  ]
+}

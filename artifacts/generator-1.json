@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "puzzle": {
+    "size": 1,
+    "grid": [
+      [
+        0
+      ]
+    ],
+    "marks": [
+      [
+        "unknown"
+      ]
+    ]
+  },
+  "regions": [
+    {
+      "id": 0,
+      "name": "颜色 1",
+      "color": "#9acb78"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "version": 1,
+  "puzzle": {
+    "size": 7,
+    "grid": [
+      [
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        6
+      ],
+      [
+        1,
+        1,
+        0,
+        0,
+        0,
+        6,
+        6
+      ],
+      [
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        2,
+        2,
+        2,
+        4,
+        0,
+        0
+      ],
+      [
+        0,
+        3,
+        3,
+        4,
+        4,
+        0,
+        0
+      ],
+      [
+        0,
+        3,
+        3,
+        4,
+        5,
+        5,
+        0
+      ],
+      [
+        0,
+        3,
+        5,
+        5,
+        5,
+        0,
+        0
+      ]
+    ],
+    "marks": [
+      [
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown"
+      ],
+      [
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown"
+      ],
+      [
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown"
+      ],
+      [
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown"
+      ],
+      [
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown"
+      ],
+      [
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown"
+      ],
+      [
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    ]
+  },
+  "regions": [
+    {
+      "id": 0,
+      "name": "颜色 1",
+      "color": "#e88853"
+    },
+    {
+      "id": 1,
+      "name": "颜色 2",
+      "color": "#729c89"
+    },
+    {
+      "id": 2,
+      "name": "颜色 3",
+      "color": "#e69bdf"
+    },
+    {
+      "id": 3,
+      "name": "颜色 4",
+      "color": "#c5a52b"
+    },
+    {
+      "id": 4,
+      "name": "颜色 5",
+      "color": "#c77e9b"
+    },
+    {
+      "id": 5,
+      "name": "颜色 6",
+      "color": "#b5a4df"
+    },
+    {
+      "id": 6,
+      "name": "颜色 7",
+      "color": "#9acb78"
+    }
+  ]
+}

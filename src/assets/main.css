@@ -1,0 +1,35 @@
+:root {
+  font-family: "Segoe UI", "Microsoft YaHei", "PingFang SC", system-ui, sans-serif;
+  color: #52634f;
+  background: #f8f9f4;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  --teal: #54866f;
+  --teal-soft: #edf5ee;
+  --muted: #99a591;
+  --line: #e9ede3;
+  --mono: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+}
+* { box-sizing: border-box; }
+body { margin: 0; min-width: 320px; }
+button, input { font: inherit; color: inherit; }
+button { cursor: pointer; -webkit-tap-highlight-color: transparent; }
+button:disabled { cursor: not-allowed; opacity: .45; }
+button, input, summary, a { outline-color: var(--teal); outline-offset: 3px; }
+button:focus-visible, input:focus-visible, summary:focus-visible, a:focus-visible { outline: 2px solid var(--teal); }
+button { transition: background-color .15s, color .15s, border-color .15s; }
+.panel { background: #fff; border: 1px solid var(--line); border-radius: 14px; box-shadow: 0 4px 15px #364e2503; }
+.panel-heading { display: flex; align-items: center; justify-content: space-between; }
+.eyebrow { font-family: var(--mono); font-size: 8px; color: #a1ac96; letter-spacing: .15em; }
+.panel-title { font-size: 16px; font-weight: 550; margin: 7px 0 0; color: #4b6148; }
+.muted-icon { color: #acb99f; }
+.button { border: 1px solid #e2e8db; background: #fff; display: inline-flex; align-items: center; justify-content: center; gap: 7px; border-radius: 7px; padding: 10px 12px; color: #7e9073; }
+.button:hover:not(:disabled) { background: #f1f5ed; border-color: #c4d1b9; }
+.text-button { background: none; border: 0; padding: 3px 0; color: #93a385; display: inline-flex; align-items: center; gap: 5px; }
+.text-button:hover:not(:disabled) { color: #5a7850; }
+.icon-button { background: transparent; border: 0; padding: 5px; color: #93a18a; display: grid; place-items: center; border-radius: 5px; }
+.icon-button:hover:not(:disabled) { background: #edf3e7; color: #5b7651; }
+.status-dot { width: 5px; height: 5px; border-radius: 50%; background: var(--teal); flex-shrink: 0; }
+.visually-hidden { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0; }
+@media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; } }

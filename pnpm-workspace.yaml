@@ -1,0 +1,5 @@
+# Hoisted layout also works in environments that virtualize Windows junctions.
+nodeLinker: hoisted
+verifyDepsBeforeRun: false
+allowBuilds:
+  esbuild: true
